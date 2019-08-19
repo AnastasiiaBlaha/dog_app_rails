@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # dog_app_rails
+
+Getting to know Rails. https://medium.com/@nancydo7/ruby-on-rails-crud-tutorial-899117710c7a
